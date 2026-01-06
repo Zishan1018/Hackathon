@@ -1,0 +1,5 @@
+ML Module – Hackathon
+
+Model: Random Forest
+Goal: Predict safe routes
+
